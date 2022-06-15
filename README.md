@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**gujstudy2021/gujstudy2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VIDYAVAHAK KHERGAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
